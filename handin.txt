@@ -1,0 +1,25 @@
+作業名稱：慢慢來 Study Flow — 讀書任務與專注計時器
+
+作品介紹：把讀書目標拆成小任務，搭配 25 分鐘專注與 5 分鐘休息計時，透過每日輪數、分鐘與清單完成進度觀察學習成果。
+
+檔案：
+index.html：可操作的單一網頁，右上角內建作品規格。
+specification.html：完整規格書，可於瀏覽器列印保存 PDF。
+development-log.txt：AI 協作、修改與驗證紀錄。
+
+GitHub Pages 公開網址：https://411577024.github.io/study-flow/
+GitHub 儲存庫網址：https://github.com/411577024/study-flow
+
+新手上傳方式（依課堂指引）：
+1. 建立 Public 儲存庫 study-flow。
+2. 上傳 index.html、specification.html、development-log.txt 至最外層，按 Commit changes。不要只上傳 ZIP，也不要多包一層資料夾。
+3. Settings → Pages → Source 選 Deploy from a branch。
+4. Branch 選 main，資料夾選 / (root)，按 Save。
+5. 等待部署，打開 Pages 顯示的公開網址測試。
+6. 繳交公開網址、儲存庫網址、規格書，以及實際 AI 改善紀錄。
+
+提醒：公開連結與實際正常操作是評分必要項目；只交本機檔案或截圖不等於完成發布。
+
+線上規格書：https://411577024.github.io/study-flow/specification.html
+AI 協作與改善紀錄：https://github.com/411577024/study-flow/blob/main/development-log.txt
+已完成 GitHub Pages 公開發布與實際瀏覽器操作驗證。
